@@ -1,6 +1,6 @@
 -- Function to read base folder path from a config file
 function read_base_folder()
-     local config_path = reaper.GetResourcePath() .. "/Scripts/MAB UCS Render Tools/UCS Tools/ucs_config.txt"
+     local config_path = reaper.GetResourcePath() .. "/Scripts/MMB-Reaper-Scripts/UCS-Render-Tools/ucs_config.txt"
     local file = io.open(config_path, "r")
     if file then
         local base_folder = file:read("*l")
