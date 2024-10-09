@@ -32,7 +32,7 @@ function create_ucs_folders(destination_folder)
         end
         
         -- Save the destination folder path to a configuration file inside the MAB folder
-        local config_file_path = reaper.GetResourcePath() .. "/Scripts/MAB UCS Render Tools/UCS Tools/ucs_config.txt"
+        local config_file_path = reaper.GetResourcePath() .. "/Scripts/MMB-Reaper-Scripts/UCS-Render-Tools/ucs_config.txt"
         local config_file = io.open(config_file_path, "w")
         if config_file then
             config_file:write(destination_folder)
