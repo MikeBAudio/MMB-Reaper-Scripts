@@ -38,7 +38,7 @@ function create_ucs_folders(destination_folder)
             config_file:write(destination_folder)
             config_file:close()
             -- Message without path details
-            reaper.ShowMessageBox("UCS folders created successfully! Path has been saved in the MAB folder.", "Success", 0)
+            reaper.ShowMessageBox("UCS folders created successfully! Path has been saved in the UCS-Render-Tools folder.", "Success", 0)
         else
             reaper.ShowMessageBox("Failed to save the folder path. Check permissions or path.", "Error", 0)
         end
