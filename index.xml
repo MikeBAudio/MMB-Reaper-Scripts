@@ -8,5 +8,12 @@
         <source main="main">https://raw.githubusercontent.com/MikeBAudio/MMB-Reaper-Scripts/refs/heads/master/UCS-Render-Tools/MMB_UCS%20-%20Create%20Category%20Folders.lua</source>
       </version>
     </reapack>
+    <reapack name="MMB_UCS - Embedded Marker Render.lua" type="script" desc="Open render window with output path set based on UCS category markers">
+      <metadata>
+      </metadata>
+      <version name="1" author="MMB" time="2021-01-04T23:30:32Z">
+        <source main="main">https://raw.githubusercontent.com/MikeBAudio/MMB-Reaper-Scripts/refs/heads/master/UCS-Render-Tools/MMB_UCS%20-%20Embedded%20Marker%20Render.lua</source>
+      </version>
+    </reapack>
   </category>
 </index>
