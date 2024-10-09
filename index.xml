@@ -16,7 +16,7 @@ Markdown
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="cfillion" time="2021-01-04T23:30:32Z">
+      <version name="1.01" author="MMB" time="2021-01-04T23:30:32Z">
         <source main="main">https://raw.githubusercontent.com/MikeBAudio/MMB-Reaper-Scripts/refs/heads/master/Example/MMB_UCS%20-%20Create%20Category%20Folders.lua</source>
       </version>
     </reapack>
