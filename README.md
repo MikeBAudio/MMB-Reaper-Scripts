@@ -8,7 +8,7 @@ Welcome to the MMB Reaper Scripts repository. This collection includes scripts d
 
 - Copy/Paste [this link](https://raw.githubusercontent.com/MikeBaudio/MMB-Reaper-Scripts/master/index.xml) in the box and press OK
 
-- Run the script MMB_UCS - Create Category Folders and choose the main parent folder that will contain all UCS category folder types. This will be the target folder theat the render script will point to by default
+- Run the script MMB_UCS - Create category folders and choose the main parent folder that will contain all UCS category folder types. This will be the target folder that the render script will point to by default
 
 - When using the [USC Renmaing Tool](https://www.aaroncendan.me/side-projects/ucs) ensure that these boxes are ticked in the user settings window: ![image](https://github.com/user-attachments/assets/490005d3-1733-4dc6-85d1-89853615e571)
 
