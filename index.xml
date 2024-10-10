@@ -18,7 +18,7 @@
     <reapack name="MMB_UCS - Create UCS Render Path.lua" type="script" desc="Sets parent destination folder for the Embedded Marker Render script">
       <metadata>
       </metadata>
-      <version name="1" author="MMB" time="2021-01-04T23:30:32Z">
+      <version name="1.01" author="MMB" time="2021-01-04T23:30:32Z">
         <source main="main">https://raw.githubusercontent.com/MikeBAudio/MMB-Reaper-Scripts/refs/heads/master/UCS-Render-Tools/MMB_UCS%20-%20Create%20UCS%20Render%20Path.lua</source>
       </version>
     </reapack>    
